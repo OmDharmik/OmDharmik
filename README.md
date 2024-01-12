@@ -8,6 +8,7 @@ I am a passionate and dedicated Full Stack Developer with a keen interest in con
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, MySQL
 - **Version Control:** Git, GitHub
+- **Other Skills:** C/C++, Python, SQL, Machine Learning, Data Science.
 
 
 
