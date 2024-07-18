@@ -15,6 +15,7 @@ I am a passionate and dedicated Full Stack Developer with a keen interest in con
 ## 📫 Let's Connect!
 
 - LinkedIn: https://www.linkedin.com/in/om-dharmik-212354154/
+- LeetCode: https://leetcode.com/u/omdharmik24/
 - Twitter: https://twitter.com/Omdharmik
 
 Feel free to reach out if you have any collaboration ideas, project suggestions, or just want to chat. I'm excited about the possibility of contributing to meaningful projects and learning from the open source community!
