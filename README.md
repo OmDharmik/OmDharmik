@@ -4,11 +4,11 @@ I am a passionate and dedicated Full Stack Developer with a keen interest in con
 
 ## 🔧 Skills
 
-- **Frontend:** HTML, CSS, JavaScript, React.js
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, MySQL
+- **Frontend:** HTML, CSS, JavaScript, Next.js, React.js
+- **Backend:** Node.js, Express.js, Nest.js
+- **Database:** MongoDB, MySQL, Postgres
 - **Version Control:** Git, GitHub
-- **Other Skills:** C/C++, Python, SQL, Machine Learning, Data Science.
+- **Other Skills:** C/C++, Python, SQL, AWS, Machine Learning, Data Science.
 
 
 
